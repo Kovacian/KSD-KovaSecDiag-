@@ -1,0 +1,4 @@
+{
+    "python.analysis.extraPaths": ["./App"],
+    "python.pythonPath": "env/Scripts/python.exe"
+  }
